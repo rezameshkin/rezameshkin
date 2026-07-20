@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**rezameshkin/rezameshkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Reza Meshkin 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Full-Stack .NET Developer
+
+I'm passionate about building scalable and maintainable software using:
+
+- C#
+- ASP.NET Core
+- SQL Server
+- Angular
+
+Currently exploring:
+
+- Artificial Intelligence
+- Clean Architecture
+- Design Patterns
+- Modern Software Engineering
+
+Thanks for visiting my profile.
