@@ -17,8 +17,6 @@ I enjoy building clean, scalable, and maintainable software using the .NET ecosy
 
 ## 🛠 Tech Stack
 
-## 🛠️ Tech Stack
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,html,css,js,angular,bootstrap,docker,postman" />
 </p>
