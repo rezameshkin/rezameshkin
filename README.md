@@ -1,4 +1,4 @@
-# Hi, I'm Reza Meshkin 👋
+# Hi, I'm Reza Meshkin 
 
 ## Full-Stack .NET Developer
 
